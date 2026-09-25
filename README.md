@@ -42,7 +42,7 @@ To sound an immediate emergency buzzer alarm to ensure swift vehicle evacuation 
 
 Components
 
-![][image1]
+![][image1](Components_)
 
 #### 4\. HARDWARE SPECIFICATIONS
 
@@ -95,10 +95,10 @@ Smoke Sensor (Cabin): VCC \-\> 5V, GND \-\> GND, DO \-\> Pin D7 (or AO \-\> Pin 
 Buzzer (Alarm): Positive (+) \-\> Pin D8, Negative (-) \-\> GND
 
      CIRCUIT DIAGRAM  
-![][image2]
+![][image2](Circuit Diagram_)
 
 SCHEMATIC DIAGRAM  
-![][image3]
+![][image3](Schematic Diagram_)
 
 ##### WORKING PRINCIPLE IN COLLEGE BUS OPERATIONS:
 
@@ -131,7 +131,7 @@ Low Budget & High Reliability: Uses affordable, solid-state sensors requiring ve
 
 CONCLUSION:
 
-![][image4]
+![][image4](Result__)
 
 The proposed system delivers a targeted safety and transit management solution for college bus fleets. By pairing an IR entrance counter with an ultrasonic exit counter, the system automates student transit tracking. Combined with continuous MQ smoke detection and an instantaneous driver alarm, it provides proactive fire prevention, improving student safety and transit accountability across institutional campus transport operations.
 
